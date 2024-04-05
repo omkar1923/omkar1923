@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on software developmnt looking to clolaborate with<br>backend development  i am currently learning spring boot ask me about web development 
+Enthusiastic software development fresher diving into the world of code. Eager learner with a knack for problem-solving and a passion for clean, efficient solutions. Proficient in Java, JavaScript, and Spring Boot. Excited to collaborate and contribute to innovative projects. Let's code together!
 
 
 ## 🌐 Socials:
